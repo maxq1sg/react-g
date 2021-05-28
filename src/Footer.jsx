@@ -4,6 +4,8 @@ const Footer = () => {
     return (
         <div>
             copyright
+            maxim
+            kul
         </div>
     )
 }
