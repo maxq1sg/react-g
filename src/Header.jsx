@@ -1,21 +1,7 @@
 import React from "react";
 
 const Header = () => {
-  return (
-    <div>
-      <ul>
-        <li>max</li>
-        <li>max</li>
-        <li>max</li>
-        <li>max</li>
-        <li>max</li>
-        <li>max</li>
-        <li>max</li>
-        <li>max</li>
-        <li>max</li>
-      </ul>
-    </div>
-  );
+  return <div>there should be logo</div>;
 };
 
 export default Header;
