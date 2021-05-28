@@ -9,11 +9,6 @@ const Content = () => {
       <p>ya lubly kushat</p>
       <p>ya lubly kushat</p>
       <p>ya lubly kushat</p>
-      <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
     </div>
   );
 };
