@@ -4,6 +4,7 @@ const Content = () => {
   return (
     <div>
       <p>ya lubly kushat</p>
+      <p>nenavizhu</p>
     </div>
   );
 };
