@@ -1,7 +1,11 @@
-import React from "react";
+import React from 'react'
 
 const Footer = () => {
-  return <div>copyright maxima bernlaksn</div>;
-};
+    return (
+        <div>
+            copyright
+        </div>
+    )
+}
 
-export default Footer;
+export default Footer
