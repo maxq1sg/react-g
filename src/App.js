@@ -6,7 +6,7 @@ import Header from "./Header";
 const App = () => {
   return (
     <div>
-      we are an amazing company
+      we are an amazing company 
       <Header />
       <Content />
       <Footer />
