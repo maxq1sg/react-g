@@ -5,6 +5,7 @@ const Footer = () => {
         <div>
             copyright
             maxim
+            kul
         </div>
     )
 }
